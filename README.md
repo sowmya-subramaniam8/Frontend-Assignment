@@ -1,5 +1,10 @@
 # Frontend-Assignment
-Frontend assignment
+
+## Instructions
+1. Please write the answer to the questions 1 and 2 in a word document. 
+2. Commit and push the React App and the word document to a new branch with your name.
+
+
 ### Question number 1
 
 What are microtasks? What is a microtask queue? What is their role in Promises and how are they different from callbacks?
