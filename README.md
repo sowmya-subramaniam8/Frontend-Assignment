@@ -2,11 +2,11 @@
 Frontend assignment
 ### Question number 1
 
-Question number 1
+What are microtasks? What is a microtask queue? What is their role in Promises and how are they different from callbacks?
 
 ### Question number 2
 
-Explain question number 2
+Explain with examples how private, protected variables can be implemented in classes and how can they be used in subclasses?
 
 ### Create a dynamic form in React:
 
